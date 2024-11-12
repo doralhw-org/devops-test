@@ -1,5 +1,5 @@
 # Azure DevOps Challenge
----
+
 Welcome to our DevOps Challenge, crafted to assess your skills. This challenge includes tasks across infrastructure setup, application deployment, API management, and security, giving you the opportunity to demonstrate your proficiency in DevOps practices. Our aim is not only to evaluate your technical capabilities but also to observe your approach to problem-solving and adaptability in a live environment.
 
 You will complete these tasks in a two-hour live session, during which two additional test steps will be disclosed, allowing for dynamic real-time learning and solution development.
